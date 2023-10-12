@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+.head{
+    text-align: center; text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: capitalize;
+}
+.oba{
+    border-radius: 50px; text-align: left;
+}
+.flex-container{display: flex;flex-direction: row-reverse ;
+
+}
+.statue{
+    width: 300px;
+    border-radius: 50px;
+
+}
+
+
+.type{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
